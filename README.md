@@ -15,9 +15,3 @@ Ce dépôt est l’endroit destiné à lister les ressources utiles au cours de 
 ## Outils
 
 Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web sont un minimum. Une documentation hors-ligne est également un outil précieux. Ces outils sont listés dans le document [bwat zouti](https://github.com/tecg-web/toolbox/blob/master/app/toolbox-bwat-zouti.md).
-
-## Tutoriels
-
-Voici une liste non exhaustive de quelques tutoriels que nous vous recommandons chaleureusement.
-
-*TODO*
