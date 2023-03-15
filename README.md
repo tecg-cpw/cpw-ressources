@@ -24,3 +24,7 @@ Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web
 - [Créations de Pages Web (CPW) - CSS (TP) - Le modèle boîte](https://www.youtube.com/playlist?list=PLfERY_roRnm5XucbAuUAhaDAJAmy0sZ31)
 - [Créations de Pages Web (CPW) - CSS (TP) - Cours en distanciel](https://www.youtube.com/playlist?list=PLfERY_roRnm5YOrPOLXsIO8nE5B4mSOiN)
 - [Créations de Pages Web (CPW) - Outils - Sublime Text](https://www.youtube.com/playlist?list=PLfERY_roRnm7Cv1wm2Y3W5YLFD1qEQ-FF)
+
+## Méthodologie
+
+[css-steptools](https://github.com/tecg-cpw/css-steptools)
