@@ -20,6 +20,7 @@ Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web
 ##  Les vidéos
 
 - [Créations de Pages Web (CPW) - HTML (TP) - Général](https://www.youtube.com/playlist?list=PLfERY_roRnm4_Kz-31o_6qi9jHSGlhqhd)
+- [Créations de Pages Web (CPW) - HTML (TP) - Cours](https://www.youtube.com/playlist?list=PLfERY_roRnm6bYxlsWSmgLKssDp_MZTm4)
 - [Créations de Pages Web (CPW) - CSS (TP) - Général](https://www.youtube.com/playlist?list=PLfERY_roRnm7L_ph-SmAppv8TImjpxlni)
 - [Créations de Pages Web (CPW) - CSS (TP) - Le modèle boîte](https://www.youtube.com/playlist?list=PLfERY_roRnm5XucbAuUAhaDAJAmy0sZ31)
 - [Créations de Pages Web (CPW) - CSS (TP) - Cours en distanciel](https://www.youtube.com/playlist?list=PLfERY_roRnm5YOrPOLXsIO8nE5B4mSOiN)
