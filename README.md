@@ -16,6 +16,20 @@ Ce dépôt est l’endroit destiné à lister les ressources utiles au cours de 
 
 Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web sont un minimum. Une documentation hors-ligne est également un outil précieux. Ces outils sont listés dans le document [bwat zouti](https://github.com/tecg-web/toolbox/blob/master/app/toolbox-bwat-zouti.md).
 
+## Documentation
+
+- [Les modèles de contenu des balises HTML du WHATWG](https://html.spec.whatwg.org/#content-models)
+- [Référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element) : Une documentation qui reprend la liste des balises et leur sens, facile, en français issue du *MDN Web Docs* de Mozilla, une excellente référence&nbsp;;
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-abbr-element) : **LA** spécification officielle du w3c/whatwg pour le langage HTML, c’est elle qui détient la vérité et qui fait loi en cas de doute. Il s’agit d’une documentation plus technique, en anglais, très complète, qui comporte une page par balise où on trouve toutes les informations nécessaires (sens, règles de grammaire, attributs, …). Votre «&nbsp;*Précis et Concis*&nbsp;» est une version imprimée de ce site&nbsp;;
+- [ISO 639-1 Language Codes](https://www.w3schools.com/tags/ref_language_codes.asp) : Aidez-vous de cette ressource pour trouver quel est le code de langue à utiliser pour remplir correctement la valeur de l'attribut lang&nbsp;;
+
+
+## Articles et tutoriels
+
+- [Comment indiquer la langue d’un contenu en HTML&nbsp;?](https://www.alsacreations.com/astuce/lire/1151-langue-du-contenu.html) : Aidez-vous de cette ressource pour savoir où et comment utiliser l’attribut lang dans les différents cas de figure&nbsp;;
+- [Un &lt;time&gt; pour chaque chose...](https://www.alsacreations.com/article/lire/1386-html5-element-time.html) : Aidez-vous de cette ressource pour trouver quel est le format de date à utiliser pour remplir correctement la valeur de l'attribut datetime dans la balise time&nbsp;;
+- [À quoi servent les balises META ?](https://www.alsacreations.com/article/lire/628-balises-meta.html) : Aidez-vous de cette ressource pour correctement baliser les méta-informations à indiquer dans l’en-tête de votre document&nbsp;; 
+- [La métadonnée description selon OpQuast](http://checklists.opquast.com/en/assurance-qualite-web/le-code-source-de-chaque-page-contient-une-metadonnee-qui-en-decrit-le-contenu)
 
 ##  Les vidéos
 
