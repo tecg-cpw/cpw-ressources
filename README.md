@@ -22,6 +22,8 @@ Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web
 - [Référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element) : Une documentation qui reprend la liste des balises et leur sens, facile, en français issue du *MDN Web Docs* de Mozilla, une excellente référence&nbsp;;
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-abbr-element) : **LA** spécification officielle du w3c/whatwg pour le langage HTML, c’est elle qui détient la vérité et qui fait loi en cas de doute. Il s’agit d’une documentation plus technique, en anglais, très complète, qui comporte une page par balise où on trouve toutes les informations nécessaires (sens, règles de grammaire, attributs, …). Votre «&nbsp;*Précis et Concis*&nbsp;» est une version imprimée de ce site&nbsp;;
 - [ISO 639-1 Language Codes](https://www.w3schools.com/tags/ref_language_codes.asp) : Aidez-vous de cette ressource pour trouver quel est le code de langue à utiliser pour remplir correctement la valeur de l'attribut lang&nbsp;;
+- [Types Mime communs](https://developer.mozilla.org/fr/docs/Web/HTTP/MIME_types/Common_types) : Aidez-vous de cette ressource pour trouver quel est la bonne valeur de type Mime à utiliser pour les différents ces de figure&nbsp;;
+- [Référence HTML des caractères spéciaux](https://github.com/tecg-cpw/cpw-ressources/blob/606a56e45785e5c0565516be37e5d9b8a53a3254/referenceHTML_caracteresSpeciaux3.pdf) : Référez-vous à ce document pour retrouver les entités ou raccourcis clavier des principaux caractères spéciaux à utiliser pour respecter les règles de la typographie française
 
 
 ## Articles et tutoriels
